@@ -3,7 +3,7 @@
 
 - Hygor (Estudante na área tecnologica)
 
-> Sabedoria e conhecimento sobre: <
+> Sabedoria e conhecimento sobre: 
 
 - Python
 - HTML
@@ -12,11 +12,11 @@
 - programação e Algoritmos
 - Dados
 
-> Certificação Principais: <
+> Certificação Principais: 
 
 - Técnico de Desenvolvimento de Sistemas
   
-> Certificados Principais: <
+> Certificados Principais: 
 
 - Fundamentos de Inteligência Artificial
 - Gemini Academy
