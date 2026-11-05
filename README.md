@@ -1,8 +1,27 @@
 
 ## OLÁ
 
- - sou Hygor, e estou cursando [SENAI](https://www.sp.senai.br/unidade/leopoldina/) TDS (Desenvolvimento de Sistemas)
- - Para mais, [ACESSAR](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/?isSelfProfile=true)
+- Hygor (Estudante na área tecnologica)
+
+> Sabedoria e conhecimento sobre: <
+
+- Python
+- HTML
+- CSS
+- Inteligência Artificial
+- programação e Algoritmos
+- Dados
+
+> Certificação Principais: <
+
+- Técnico de Desenvolvimento de Sistemas
+  
+> Certificados Principais: <
+
+- Fundamentos de Inteligência Artificial
+- Gemini Academy
+  
+- Para mais, [ACESSAR](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/?isSelfProfile=true)
 ---
 - ⚡ gosto de analisar e observar
 - ⚡ sempre pesquiso coisas novas
