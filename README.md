@@ -1,5 +1,5 @@
 
-## oLÁ
+## OLÁ
 
  - sou Hygor, e estou cursando [SENAI](https://www.sp.senai.br/unidade/leopoldina/) TDS (Desenvolvimento de Sistemas)
  - Para mais, [ACESSAR](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/?isSelfProfile=true)
