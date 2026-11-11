@@ -21,7 +21,7 @@
 - Fundamentos de Inteligência Artificial e Análises de Dados
 - Gemini Academy
   
-- Para mais, [ACESSAR](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/?isSelfProfile=true)
+  Para mais, [ACESSAR](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/?isSelfProfile=true)
 ---
 - ⚡ gosto de analisar e observar
 - ⚡ sempre pesquiso coisas novas
