@@ -1,34 +1,49 @@
 
-## OLÁ
+# 👋 Olá! Eu sou o Hygor
 
-- Hygor (🎓Estudante na área tecnologica🎓)
+🎓 Estudante de Desenvolvimento de Sistemas | Tecnologia e Programação
 
-> Sabedoria e conhecimento sobre: 
+Sou apaixonado por tecnologia, inteligência artificial e desenvolvimento de soluções. Estou sempre buscando aprender coisas novas e transformar conhecimento em projetos práticos.
 
-- Python
-- HTML
-- CSS
-- Inteligência Artificial
-- programação e Algoritmos
-- Dados
+## 💻 Tecnologias e conhecimentos
 
-> Certificação Principais: 
+- 🐍 Python
+- 🌐 HTML5
+- 🎨 CSS3
+- 🤖 Inteligência Artificial
+- 🧠 Lógica de Programação e Algoritmos
+- 📊 Análise de Dados
 
-- Técnico de Desenvolvimento de Sistemas
-  
-> Certificados Principais: 
+## 🎓 Formação
 
-- Fundamentos de Inteligência Artificial e Análises de Dados
+- Técnico em Desenvolvimento de Sistemas
+
+## 📜 Certificações
+
+- Fundamentos de Inteligência Artificial e Análise de Dados
 - Gemini Academy
-  
-  Para mais, [ACESSAR](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/?isSelfProfile=true)
----
-- ⚡ gosto de analisar e observar
-- ⚡ sempre pesquiso coisas novas
-- ⚡ trabalho bem em equipe
-- ⚡ rápido aprendizado
+
+## 🚀 Características
+
+- ⚡ Facilidade de aprendizado
+- 🔍 Curiosidade e pensamento analítico
+- 🤝 Trabalho em equipe
+- 💡 Interesse em novas tecnologias
+
+## 🌎 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/)
+- 📸 [Instagram](https://www.instagram.com/hy_g_or/)
+
 ---
 
-[![Instagram](https://img.shields.io/badge/Instagram-@hy_g_or-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hy_g_or/)
+⭐ Sempre aprendendo, desenvolvendo e evoluindo!
 
- <img width="680" height="383" alt="Final Animation Preview" src="https://github.com/user-attachments/assets/5e50d02c-1714-43b0-9cac-8a570fbe7307" />
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 💻 Linguagens mais utilizadas
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
