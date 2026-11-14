@@ -1,62 +1,40 @@
-💜 Olá! Eu sou o Hygor
 
-<div align="center">
+# 👋 Olá! Eu sou o Hygor
 
-👨‍💻 Estudante de Desenvolvimento de Sistemas
+🎓 Estudante de Desenvolvimento de Sistemas | Tecnologia e Programação
 
-Transformando curiosidade em conhecimento e conhecimento em soluções tecnológicas.
+Sou apaixonado por tecnologia, inteligência artificial e desenvolvimento de soluções. Estou sempre buscando aprender coisas novas e transformar conhecimento em projetos práticos.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin) ![Instagram](https://img.shields.io/badge/Instagram-@hy__g__or-E4405F?style=for-the-badge&logo=instagram)
+## 💻 Tecnologias e conhecimentos
 
-</div>
+- 🐍 Python
+- 🌐 HTML5
+- 🎨 CSS3
+- 🤖 Inteligência Artificial
+- 🧠 Lógica de Programação e Algoritmos
+- 📊 Análise de Dados
 
-🧠 Sobre mim
+## 🎓 Formação
 
-Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e inovação.
+- Técnico em Desenvolvimento de Sistemas
 
-Atualmente estou desenvolvendo minhas habilidades em programação, Inteligência Artificial e análise de dados, buscando transformar o aprendizado em projetos práticos.
+## 📜 Certificações
 
-🎯 Meu objetivo é conquistar uma oportunidade de estágio na área de tecnologia, adquirir experiência profissional e evoluir como desenvolvedor.
+- Fundamentos de Inteligência Artificial e Análise de Dados
+- Gemini Academy
 
-💻 Tecnologias e conhecimentos
+## 🚀 Características
 
-<div align="center">
+- ⚡ Facilidade de aprendizado
+- 🔍 Curiosidade e pensamento analítico
+- 🤝 Trabalho em equipe
+- 💡 Interesse em novas tecnologias
 
-!Python !HTML5 !CSS3 !Artificial Intelligence !Data Analysis
+## 🌎 Onde me encontrar
 
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/hygor-eduardo-rodrigues-5a1b78311/)
+- 📸 [Instagram](https://www.instagram.com/hy_g_or/)
 
-📚 Áreas de estudo
-Python e lógica de programação.
-HTML5 e CSS3.
-Inteligência Artificial.
-Algoritmos e estruturas de programação.
-Análise e interpretação de dados.
-🎓 Formação acadêmica
-Técnico em Desenvolvimento de Sistemas.
-🏆 Certificações
-Fundamentos de Inteligência Artificial e Análise de Dados.
-Gemini Academy.
-⚡ Características pessoais
-🔍 Facilidade em analisar e observar.
-📚 Interesse constante em aprender coisas novas.
-🤝 Facilidade para trabalhar em equipe.
-🚀 Aprendizado rápido e dedicação.
-💡 Curiosidade por novas tecnologias.
-🎯 Objetivo profissional
+---
 
-Busco uma oportunidade de estágio em Tecnologia da Informação ou Desenvolvimento de Sistemas, onde possa aplicar meus conhecimentos, colaborar com equipes e desenvolver minhas habilidades profissionais.
-
-🌐 Contato
-💼 LinkedIn: Hygor Eduardo Rodrigues
-📸 Instagram: @hy_g_or
-
-<div align="center">
-
-💜 Sempre aprendendo. Sempre evoluindo.
-
-Obrigado por visitar meu perfil!
-
-!Visitor Count
-
-</div>
+⭐ Sempre aprendendo, desenvolvendo e evoluindo!
